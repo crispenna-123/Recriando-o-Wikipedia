@@ -11,14 +11,5 @@ O desafio permite total liberdade criativa! Escolha os temas que desejar e explo
 ## 🛠 Tecnologias Utilizadas
 - HTML5
 - CSS3
-- (Opcional) JavaScript para melhorias dinâmicas
 
-## 📂 Estrutura do Projeto
-```
-/ projeto-wikipedia
-  ├── index.html  # Página principal
-  ├── style.css   # Estilos da página
-  ├── assets/     # Imagens e outros recursos
-  ├── README.md   # Documentação do projeto
-```
 
